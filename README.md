@@ -1,7 +1,7 @@
 # 👾 Make it Private
 
 Make it Private is a Laravel based Composer proxy for your private Github repositories.
-It's easy to install and use! ;)
+It's easy to install and use!
 
 <center>
 <img src="https://raw.githubusercontent.com/misterdevit/makeitprivate/refs/heads/main/_art/login.png" style="width:100%;">
